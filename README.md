@@ -1,5 +1,3 @@
-README.md
-
 ┌─────────────────────────────────────┐
 │ Umesh Chakor                        │
 │ Full Stack Developer                │
