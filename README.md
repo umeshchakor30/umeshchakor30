@@ -155,4 +155,21 @@ React.js + Node.js + APIs + Full Stack Engineering
 
 ---
 
+## 📬 Let's Connect
+
+I'm currently open to **full-time remote opportunities** in Full Stack, React.js, Node.js, and Technical Lead roles.
+
+| | |
+|---|---|
+| 📧 **Email** | [umeshchakor30@gmail.com](mailto:umeshchakor30@gmail.com) |
+| 📱 **Phone** | [+91 9049261203](tel:+919049261203) |
+| 🌐 **Portfolio** | [umeshchakor.vercel.app](https://umeshchakor.vercel.app/) |
+| 💼 **LinkedIn** | [linkedin.com/in/umeshchakor](https://linkedin.com/in/umeshchakor) |
+
+### 🚀 Current Availability
+
+**Immediate Joiner · Open to Full-Time Remote Opportunities**
+
+Feel free to reach out for **Full Stack Developer, React.js, Node.js, or Technical Lead opportunities.**
+
 <sub>Built with ❤️, JavaScript & a lot of curiosity.</sub>
